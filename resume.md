@@ -15,7 +15,7 @@ subtitle: An awesome person and hard worker
 ***Year of birth:*** 1997\
 ***Drivers Licence:*** Yes\
 ***Nationality:*** South African\
-***Languages:*** English (fluent), Afrikaans (fluent), German (learning)\
+***Languages:*** English (fluent), Afrikaans (fluent), German (learning)
 
 ### AREAS OF KNOWLEDGE
 - Java
