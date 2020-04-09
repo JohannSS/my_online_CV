@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My Curriculum Vitae
-subtitle: An awesome person and hard worker
+subtitle: I am a hard worker and a friendly giant.
 ---
 
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
@@ -9,13 +9,13 @@ subtitle: An awesome person and hard worker
 
 ### PERSONAL DETAILS
 **Undergraduate BSc Computer Science student** <br/>
-***Home town:*** Pretoria, Gauteng, South Africa <br/>
-***Cell:*** 072 323 5569 <br/>
-***Email:*** johannss29@gmail.com or u16008554@tuks.co.za <br/>
-***Year of birth:*** 1997 <br/>
-***Drivers Licence:*** Yes <br/>
-***Nationality:*** South African <br/>
-***Languages:*** English (fluent), Afrikaans (fluent), German (learning)
+***Home town:***  Pretoria, Gauteng, South Africa <br/>
+***Cell:***  072 323 5569 <br/>
+***Email:***  johannss29@gmail.com or u16008554@tuks.co.za <br/>
+***Year of birth:***  1997 <br/>
+***Drivers Licence:***  Yes <br/>
+***Nationality:***  South African <br/>
+***Languages:***  English (fluent), Afrikaans (fluent), German (learning)
 
 ### AREAS OF KNOWLEDGE
 - Java
@@ -36,8 +36,8 @@ subtitle: An awesome person and hard worker
 - Focus on fine details
 
 ### PROJECTS
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.   
+**Team Sigma** - University project team - Place <span style="float: right; "> 2020 </span>  
+We are a group of six university students that will be bidding to do a project for a company for a Software Engineering module at the University of Pretoria 
 
 ### EDUCATION
 
@@ -55,6 +55,9 @@ Community service - **Jan Smuts Museum** <span style="float: right; "> 2017 </sp
 From March 2017 to November 2017 me and group of three other students had to spend 40 hours each of community service for an university module named JCP 202. The main objective of our team was to preserve over 260 of the old documents in the office of General Jan Smuts by scanning the files into PDF documents and digitally organizing them into a Microsoft Excel spreadsheet.
 
 
-### RECOGNITION & INTERESTS
+### INTERESTS
 
-I am a very active person and therefore have a passion for running, and more specifically trailrunning.
+I am very interested in CNC machining and 3D printing and all the programming and developmnt behind it. <br/>
+I am not a frequent gamer, but I do have an interest in first person shooter games such as Call Of Duty and Battlefield. <br/> 
+I am a very active person and therefore have a passion for running, and more specifically trailrunning. <br/>
+I am a massive petrol head and love cars and anything to do with them.
