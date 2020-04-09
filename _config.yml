@@ -1,5 +1,5 @@
 # Site settings
-title: Johann S Stadler CV
+title: Johann S Stadler
 description: >
   My simple CV describing myself and displaying my information
 
@@ -21,4 +21,4 @@ styles: [agate, androidstudio, arta, asceti, atelier-cave.dark, atelier-cave.lig
 highlighter: null
 markdown: kramdown
 
-theme: jekyll-theme-midnight
+theme: jekyll-theme-leaf
