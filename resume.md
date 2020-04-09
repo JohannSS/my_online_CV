@@ -8,22 +8,16 @@ subtitle: An awesome person and hard worker
 <br>
 
 ### PERSONAL DETAILS
-```
-<span>
-<b> Undergraduate BSc Computer Science student </b>
-<b> Home town: </b> Pretoria, Gauteng, South Africa
-<b> Cell: </b> 072 323 5569
-<b> Email: </b> johannss29@gmail.com or u16008554@tuks.co.za
-<b> Year of birth: </b> 1997
-<b> Drivers Licence: </b> Yes
-<b> Nationality: </b> South African
-<b> Languages: </b> English (fluent), Afrikaans (fluent), German (learning)
-</span>
-``` 
+**Undergraduate BSc Computer Science student**
+***Home town:*** Pretoria, Gauteng, South Africa
+***Cell:*** 072 323 5569
+***Email:*** johannss29@gmail.com or u16008554@tuks.co.za
+***Year of birth:*** 1997
+***Drivers Licence:*** Yes
+***Nationality:*** South African
+***Languages:*** English (fluent), Afrikaans (fluent), German (learning)
 
 ### AREAS OF KNOWLEDGE
-``` 
-<span>
 - Java
 - C++
 - Assembler
@@ -31,12 +25,8 @@ subtitle: An awesome person and hard worker
 - CSS
 - JavaScript
 - Android
-</span>
-``` 
 
 ### PERSONAL SKILLS
-```
-<span>
 - Communication
 - Adaptable
 - Flexible
@@ -44,18 +34,10 @@ subtitle: An awesome person and hard worker
 - Dedicated
 - Problem-solving
 - Focus on fine details
-</span>
-``` 
 
 ### PROJECTS
 **Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
-
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
-
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.   
 
 ### EDUCATION
 
@@ -69,8 +51,8 @@ I completed my Highschool career with an A level achivement in the following:
 
 ### WORK EXPERIENCE AND COMMUNITY SERVICE
 
-Community service - **Jan SMuts Museum ** <span style="float: right; "> 2017 </span>  
-_ From March 2017 to November 2017 me and group of three other students had to spend 40 hours each of community service for an university module named JCP 202. The main objective of our team was to preserve over 260 of the old documents in the office of General Jan Smuts by scanning the files into PDF documents and digitally organizing them into a Microsoft Excel spreadsheet._    
+Community service - **Jan Smuts Museum** <span style="float: right; "> 2017 </span>  
+From March 2017 to November 2017 me and group of three other students had to spend 40 hours each of community service for an university module named JCP 202. The main objective of our team was to preserve over 260 of the old documents in the office of General Jan Smuts by scanning the files into PDF documents and digitally organizing them into a Microsoft Excel spreadsheet.
 
 
 ### RECOGNITION & INTERESTS
