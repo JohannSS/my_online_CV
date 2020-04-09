@@ -1,7 +1,7 @@
 # Site settings
-title: my_online_CV
+title: Johann S Stadler CV
 description: >
-  A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
+  My simple CV describing myself and displaying my information
 
 baseurl: "/my_online_CV" # the subpath of your site, e.g. /blog/
 url: "https://johannss.github.io" # the base hostname & protocol for your site
