@@ -1,16 +1,15 @@
 # Site settings
-title: Pudhina
+title: my_online_CV
 description: >
   A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
 
-baseurl: "/Pudhina" # the subpath of your site, e.g. /blog/
-url: "https://knhash.github.io" # the base hostname & protocol for your site
+baseurl: "/my_online_CV" # the subpath of your site, e.g. /blog/
+url: "https://JohannSS.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Pudhina
-  github: github
-  linkedin: linkedin
-  email: example@email.com
+  fullname: Johann S Stadler
+  github: JohannSS
+  email: johannss29@gmail.com / u16008554@tuks.co.za
 
 
 # Syntax highlighting
