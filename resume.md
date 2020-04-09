@@ -8,7 +8,8 @@ subtitle: An awesome person and hard worker
 <br>
 
 ### PERSONAL DETAILS
-``` 
+```
+<span>
 <b> Undergraduate BSc Computer Science student </b>
 <b> Home town: </b> Pretoria, Gauteng, South Africa
 <b> Cell: </b> 072 323 5569
@@ -17,10 +18,12 @@ subtitle: An awesome person and hard worker
 <b> Drivers Licence: </b> Yes
 <b> Nationality: </b> South African
 <b> Languages: </b> English (fluent), Afrikaans (fluent), German (learning)
+</span>
 ``` 
 
 ### AREAS OF KNOWLEDGE
 ``` 
+<span>
 - Java
 - C++
 - Assembler
@@ -28,10 +31,12 @@ subtitle: An awesome person and hard worker
 - CSS
 - JavaScript
 - Android
+</span>
 ``` 
 
 ### PERSONAL SKILLS
-``` 
+```
+<span>
 - Communication
 - Adaptable
 - Flexible
@@ -39,6 +44,7 @@ subtitle: An awesome person and hard worker
 - Dedicated
 - Problem-solving
 - Focus on fine details
+</span>
 ``` 
 
 ### PROJECTS
