@@ -1,14 +1,23 @@
 ---
 layout: page
 title: Hello
-subtitle: My name is Pudhina
+subtitle: My name is Johann S Stadler
 sitemap:
   priority: 0.9
 ---
 
-<img src="{{ '/assets/img/pudhina.jpg' | prepend: site.baseurl }}" id="about-img">
+<img src="{{ '/assets/img/profile.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-	<p>A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability</p>
-	<p>Fork and use the theme from the <strong> <a href="https://github.com/knhash/Pudhina"> repository</a> </strong></p>
+	<p>I am currently in my final year at the University of Pretoria studying BSc Computer Science. </p>
+	<p>
+		Personal details:
+		Undergraduate BSc Computer Science student
+		Pretoria, Gauteng, South Africa
+		Cell: 072 323 5569
+		Email: johannss29@gmail.com or u16008554@tuks.co.za
+
+	
+	</p>
+	
 </div>
