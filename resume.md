@@ -36,7 +36,7 @@ subtitle: I am a hard worker and a friendly giant.
 - Focus on fine details
 
 ### PROJECTS
-**Team Sigma** - University project team - Place <span style="float: right; "> 2020 </span>  
+**Team Sigma** - Software development team - University of Pretoria <span style="float: right; "> 2020 </span>  
 We are a group of six university students that will be bidding to do a project for a company for a Software Engineering module at the University of Pretoria 
 
 ### EDUCATION
