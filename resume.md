@@ -8,14 +8,14 @@ subtitle: An awesome person and hard worker
 <br>
 
 ### PERSONAL DETAILS
-**Undergraduate BSc Computer Science student**
-***Home town:*** Pretoria, Gauteng, South Africa
-***Cell:*** 072 323 5569
-***Email:*** johannss29@gmail.com or u16008554@tuks.co.za
-***Year of birth:*** 1997
-***Drivers Licence:*** Yes
-***Nationality:*** South African
-***Languages:*** English (fluent), Afrikaans (fluent), German (learning)
+**Undergraduate BSc Computer Science student**\
+***Home town:*** Pretoria, Gauteng, South Africa\
+***Cell:*** 072 323 5569\
+***Email:*** johannss29@gmail.com or u16008554@tuks.co.za\
+***Year of birth:*** 1997\
+***Drivers Licence:*** Yes\
+***Nationality:*** South African\
+***Languages:*** English (fluent), Afrikaans (fluent), German (learning)\
 
 ### AREAS OF KNOWLEDGE
 - Java
