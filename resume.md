@@ -12,7 +12,7 @@ subtitle: I am a hard worker and a friendly giant.
 ***Home town:***  Pretoria, Gauteng, South Africa <br/>
 ***Cell:***  072 323 5569 <br/>
 ***Email:***  johannss29@gmail.com or u16008554@tuks.co.za <br/>
-***Year of birth:***  1997 <br/>
+***Date of birth:***  29/04/1997 <br/>
 ***Drivers Licence:***  Yes <br/>
 ***Nationality:***  South African <br/>
 ***Languages:***  English (fluent), Afrikaans (fluent), German (learning)
@@ -31,9 +31,11 @@ subtitle: I am a hard worker and a friendly giant.
 - Adaptable
 - Flexible
 - Good team player
-- Dedicated
-- Problem-solving
+- Extremely dedicated
+- Dilligent
+- Creative problem-solving
 - Focus on fine details
+- Perfectionist in my work
 
 ### PROJECTS
 **Team Sigma** - Software development team - University of Pretoria <span style="float: right; "> 2020 </span>  
@@ -60,4 +62,5 @@ From March 2017 to November 2017 me and group of three other students had to spe
 I am very interested in CNC machining and 3D printing and all the programming and development behind it. <br/>
 I am not a frequent gamer, but I do have an interest in first person shooter games such as Call Of Duty and Battlefield. <br/> 
 I am a very active person and therefore have a passion for running, and more specifically trail running. <br/>
-I am a massive petrol head and love cars and anything to do with them.
+I am a massive petrol head and love cars and motor racing, as well as anything that has an engine in it and the technology behind it. <br/>
+I have a passion to aquire as much knowledge about a subject as I can and therefore have a broad general knowledge.
