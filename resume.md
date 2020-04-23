@@ -32,15 +32,15 @@ subtitle: I am a hard worker and a friendly giant.
 - Flexible
 - Good team player
 - Extremely dedicated
-- Dilligent
+- Diligent
 - Creative problem-solving
 - Focus on fine details
 - Perfectionist in my work
 
 ### COMPUTER SCIENCE RELATED MODULES COMPLETED
-- Imparitive programming
+- Imperative programming
 - Introduction into program design
-- Software modeling
+- Software modelling
 - Introduction into Computer Science
 - Informatics
 - Information science
@@ -54,7 +54,7 @@ subtitle: I am a hard worker and a friendly giant.
 - Linear algebra
 - Calculus
 - Mathematics
-- Mathematical modeling
+- Mathematical modelling
 - Plant biology
 - Introduction into microbiology
 - Molecular and cell biology
@@ -81,7 +81,7 @@ I completed my Highschool career with an A level achievement in the following:
 ### WORK EXPERIENCE AND COMMUNITY SERVICE
 
 Community service - **Jan Smuts Museum** <span style="float: right; "> 2017 </span>  
-From March 2017 to November 2017 me and group of three other students had to spend 40 hours each of community service for an university module named JCP 202. The main objective of our team was to preserve over 260 of the old documents in the office of General Jan Smuts by scanning the files into PDF documents and digitally organizing them into a Microsoft Excel spreadsheet.
+From March 2017 to November 2017 me and group of three other students had to spend 40 hours each of community service for a university module named JCP 202. The main objective of our team was to preserve over 260 of the old documents in the office of General Jan Smuts by scanning the files into PDF documents and digitally organizing them into a Microsoft Excel spreadsheet.
 
 
 ### INTERESTS
@@ -90,4 +90,4 @@ I am very interested in CNC machining and 3D printing and all the programming an
 I am not a frequent gamer, but I do have an interest in first person shooter games such as Call Of Duty and Battlefield. <br/> 
 I am a very active person and therefore have a passion for running, and more specifically trail running. <br/>
 I am a massive petrol head and love cars and motor racing, as well as anything that has an engine in it and the technology behind it. <br/>
-I have a passion to aquire as much knowledge about a subject as I can and therefore have a broad general knowledge.
+I have a passion to acquire as much knowledge about a subject as I can and therefore have a broad general knowledge.
