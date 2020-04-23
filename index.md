@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Hello
-subtitle: My name is Johann S Stadler
+title: To whom it may concern, my name is Johann S Stadler
 sitemap:
   priority: 0.9
 ---
