@@ -27,7 +27,7 @@ subtitle: I am a hard worker and a friendly giant.
 - Android
 
 ### PERSONAL SKILLS
-- Communication
+- Good communication skills
 - Adaptable
 - Flexible
 - Good team player
