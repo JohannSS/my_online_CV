@@ -37,7 +37,34 @@ subtitle: I am a hard worker and a friendly giant.
 - Focus on fine details
 - Perfectionist in my work
 
+### COMPUTER SCIENCE RELATED MODULES COMPLETED
+- Imparitive programming
+- Introduction into program design
+- Software modeling
+- Introduction into Computer Science
+- Informatics
+- Information science
+- Operating systems
+- Data structures and algorithms
+- Netcentric computer systems
+- Concurrent systems
+- Computer organization and architecture
+
+### EXTRA MODULES COMPLETED
+- Linear algebra
+- Calculus
+- Mathematics
+- Mathematical modeling
+- Plant biology
+- Introduction into microbiology
+- Molecular and cell biology
+- Discrete structures
+- Business management
+- Statistics
+- Multimedia
+
 ### PROJECTS
+
 **Team Sigma** - Software development team - University of Pretoria <span style="float: right; "> 2020 </span>  
 We are a group of six university students that will be bidding to do a project for a company for a Software Engineering module at the University of Pretoria 
 
