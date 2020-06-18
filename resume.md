@@ -66,7 +66,7 @@ subtitle: I am a hard worker and a friendly giant.
 ### PROJECTS
 
 **Team Sigma** - Software development team - University of Pretoria <span style="float: right; "> 2020 </span>  
-Part of a group of six university students that will be bidding to do a project for a company for a Software Engineering module at the University of Pretoria 
+Part of a group of six university students that developed the home security system "Argus" for Epi-Use Labs. This project was also part of the requirements for a Software Engineering module at the University of Pretoria.
 
 ### EDUCATION
 
