@@ -49,6 +49,7 @@ subtitle: I am a hard worker and a friendly giant.
 - Netcentric computer systems
 - Concurrent systems
 - Computer organization and architecture
+- Computer networks
 
 ### EXTRA MODULES COMPLETED
 - Linear algebra
