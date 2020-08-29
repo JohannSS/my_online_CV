@@ -6,8 +6,8 @@ sitemap:
 ---
 
 <img src="{{ '/assets/img/profile.jpg' | prepend: site.baseurl }}" id="about-img">
-### Johann Samuel Stadler
-## 970429 5044 083
+## Johann Samuel Stadler
+### 970429 5044 083
 ---
 
 <span style="float: right; "><a href="{{ '/assets/Johann Stadler Curriculum Vitae.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
@@ -46,7 +46,7 @@ B-level achievement in the following:
 **BSc Computer Science**  
 2016 to 2020 - University of Pretoria
 
-## COMPUTER SCIENCE RELATED MODULES COMPLETED
+#### COMPUTER SCIENCE RELATED MODULES COMPLETED
 - Imperative programming
 - Introduction into program design
 - Software modelling
@@ -60,7 +60,7 @@ B-level achievement in the following:
 - Computer organization and architecture
 - Computer networks
 
-## EXTRA MODULES COMPLETED
+#### EXTRA MODULES COMPLETED
 - Linear algebra
 - Calculus
 - Mathematics
@@ -73,7 +73,7 @@ B-level achievement in the following:
 - Statistics
 - Multimedia
 
-## KNOWLEDGE GAINED IN
+#### KNOWLEDGE GAINED IN
 - Java
 - C++
 - Assembler
@@ -82,7 +82,7 @@ B-level achievement in the following:
 - JavaScript
 - Android
 
-## PERSONAL SKILLS
+#### PERSONAL SKILLS
 - Good communication skills
 - Adaptable
 - Flexible
