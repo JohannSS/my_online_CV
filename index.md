@@ -13,7 +13,7 @@ sitemap:
 <span style="float: right; "><a href="{{ '/assets/Johann Stadler Curriculum Vitae.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
 <br>
 
-### PERSONAL DETAILS
+## PERSONAL DETAILS
 
 ***Address:***  Pretoria, Gauteng, South Africa <br/>
 ***Cell:***  072 323 5569 <br/>
@@ -23,11 +23,13 @@ sitemap:
 ***Nationality:***  South African <br/>
 ***Languages:***  English (fluent), Afrikaans (fluent)
 
-### CURRENT STATUS
+
+## CURRENT STATUS
 **Undergraduate BSc Computer Science student** <br/>
 **Final study year:** 2020
 
-### EDUCATION
+
+## EDUCATION
 
 **IEB National Senior Certificate**  
 2015 - Midstream College, Centurion
@@ -42,6 +44,7 @@ B-level achievement in the following:
 - Physical Sciences
 - English Home Language
 - Life Orientation
+
 
 **BSc Computer Science**  
 2016 to 2020 - University of Pretoria
@@ -73,7 +76,7 @@ B-level achievement in the following:
 - Statistics
 - Multimedia
 
-#### KNOWLEDGE GAINED IN
+## KNOWLEDGE GAINED IN
 - Java
 - C++
 - Assembler
@@ -82,7 +85,7 @@ B-level achievement in the following:
 - JavaScript
 - Android
 
-#### PERSONAL SKILLS
+## PERSONAL SKILLS
 - Good communication skills
 - Adaptable
 - Flexible
@@ -93,7 +96,7 @@ B-level achievement in the following:
 - Focus on fine details
 - A perfectionist in my work
 
-### PROJECTS
+## PROJECTS
 
 **Team Sigma**
 2020 - University of Pretoria
@@ -101,7 +104,7 @@ B-level achievement in the following:
 Part of a university student group that developed the home security system "Argus" for Epi-Use Labs. This project was also part of the requirements for a Software Engineering module at the University of Pretoria.
 
 
-### COMMUNITY SERVICE
+## COMMUNITY SERVICE
 
 **Jan Smuts Museum**  
 March 2017 to November 2017 
@@ -109,7 +112,7 @@ March 2017 to November 2017
 A student group that spent 40 hours of community service at the Jan Smuts Museum for a university module named JCP 202. The main objective was to preserve over 260 old documents at the museum by scanning the files into PDF documents and digitally organizing them into a Microsoft Excel spreadsheet.
 
 
-### INTERESTS AND SPORTS
+## INTERESTS AND SPORTS
 
 -  I’m a keen trail and endurance runner.
 -  Keen interest in motor vehicles / racing, and the associated technology behind it.
