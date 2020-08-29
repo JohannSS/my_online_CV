@@ -3,7 +3,6 @@ title: Johann S Stadler
 description: >
   My simple CV describing myself and displaying my information
 
-baseurl: "/my_online_CV" # the subpath of your site, e.g. /blog/
 url: "https://johannss.github.io" # the base hostname & protocol for your site
 
 author:
