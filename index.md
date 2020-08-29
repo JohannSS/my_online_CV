@@ -101,7 +101,7 @@ B-level achievement in the following:
 <br/>
 ## PROJECTS
 
-**Team Sigma**
+**Team Sigma**<br/>
 2020 - University of Pretoria
 
 Part of a university student group that developed the home security system "Argus" for Epi-Use Labs. This project was also part of the requirements for a Software Engineering module at the University of Pretoria.
