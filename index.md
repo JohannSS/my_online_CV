@@ -1,6 +1,6 @@
 ---
 layout: page
-title: To whom it may concern, my name is Johann Stadler 
+title: Johann Samuel Stadler 
 sitemap:
   priority: 0.9
 ---
