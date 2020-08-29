@@ -17,18 +17,18 @@ sitemap:
 
 ***Address:***  Pretoria, Gauteng, South Africa <br/>
 ***Cell:***  072 323 5569 <br/>
-***Email:***  johannss29@gmail.com or u16008554@tuks.co.za <br/>
+***Email:***  johannss29@gmail.com <br/>
 ***Date of birth:***  29/04/1997 <br/>
 ***Drivers Licence:***  Yes <br/>
 ***Nationality:***  South African <br/>
 ***Languages:***  English (fluent), Afrikaans (fluent)
 
-
+<br/>
 ## CURRENT STATUS
 **Undergraduate BSc Computer Science student** <br/>
 **Final study year:** 2020
 
-
+<br/>
 ## EDUCATION
 
 **IEB National Senior Certificate**  
@@ -45,7 +45,7 @@ B-level achievement in the following:
 - English Home Language
 - Life Orientation
 
-
+<br/>
 **BSc Computer Science**  
 2016 to 2020 - University of Pretoria
 
@@ -76,6 +76,7 @@ B-level achievement in the following:
 - Statistics
 - Multimedia
 
+<br/>
 ## KNOWLEDGE GAINED IN
 - Java
 - C++
@@ -85,6 +86,7 @@ B-level achievement in the following:
 - JavaScript
 - Android
 
+<br/>
 ## PERSONAL SKILLS
 - Good communication skills
 - Adaptable
@@ -96,6 +98,7 @@ B-level achievement in the following:
 - Focus on fine details
 - A perfectionist in my work
 
+<br/>
 ## PROJECTS
 
 **Team Sigma**
@@ -103,7 +106,7 @@ B-level achievement in the following:
 
 Part of a university student group that developed the home security system "Argus" for Epi-Use Labs. This project was also part of the requirements for a Software Engineering module at the University of Pretoria.
 
-
+<br/>
 ## COMMUNITY SERVICE
 
 **Jan Smuts Museum**  
@@ -111,7 +114,7 @@ March 2017 to November 2017
 
 A student group that spent 40 hours of community service at the Jan Smuts Museum for a university module named JCP 202. The main objective was to preserve over 260 old documents at the museum by scanning the files into PDF documents and digitally organizing them into a Microsoft Excel spreadsheet.
 
-
+<br/>
 ## INTERESTS AND SPORTS
 
 -  I’m a keen trail and endurance runner.
