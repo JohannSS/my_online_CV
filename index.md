@@ -31,7 +31,7 @@ sitemap:
 <br/>
 ## EDUCATION
 
-**BSc Computer Science**  
+**BSc Computer Science degree**  
 2016 to 2020 - University of Pretoria
 
 #### COMPUTER SCIENCE RELATED MODULES COMPLETED
@@ -66,7 +66,7 @@ sitemap:
 - Multimedia (User experience design, web trends and applied technologies)
 
 <br/>
-## KNOWLEDGE GAINED IN
+### KNOWLEDGE GAINED IN
 - Java
 - C++
 - SQL
