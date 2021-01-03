@@ -1,7 +1,6 @@
 ---
 layout: page
 title: My Curriculum Vitae
-subtitle: I am a hard worker and a friendly giant.
 ---
 
 <span style="float: right; "><a href="{{ '/assets/Johann Stadler Curriculum Vitae.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
