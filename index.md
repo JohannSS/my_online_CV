@@ -31,21 +31,6 @@ sitemap:
 <br/>
 ## EDUCATION
 
-**IEB National Senior Certificate**  
-2015 - Midstream College, Centurion
-
-A-level achievement in the following: 
-- Mathematics
-- Engineering Graphics and Design
-- Computer Application Technology
-- Afrikaans First Additional Language 
-
-B-level achievement in the following: 
-- Physical Sciences
-- English Home Language
-- Life Orientation
-
-<br/>
 **BSc Computer Science**  
 2016 to 2020 - University of Pretoria
 
@@ -90,6 +75,21 @@ B-level achievement in the following:
 - CSS
 - JavaScript
 - Android
+
+<br/>
+**IEB National Senior Certificate**  
+2015 - Midstream College, Centurion
+
+A-level achievement in the following: 
+- Mathematics
+- Engineering Graphics and Design
+- Computer Application Technology
+- Afrikaans First Additional Language 
+
+B-level achievement in the following: 
+- Physical Sciences
+- English Home Language
+- Life Orientation
 
 <br/>
 ## PERSONAL SKILLS
