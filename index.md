@@ -25,8 +25,8 @@ sitemap:
 
 <br/>
 ## CURRENT STATUS
-**Undergraduate BSc Computer Science student** <br/>
-**Final study year:** 2020
+**Degree in BSc Computer Science at the University of Pretoria** <br/>
+(Still awaiting official graduation documentation)
 
 <br/>
 ## EDUCATION
@@ -51,16 +51,20 @@ B-level achievement in the following:
 
 #### COMPUTER SCIENCE RELATED MODULES COMPLETED
 - Imperative programming
-- Introduction into program design
-- Software modelling
-- Introduction into Computer Science
-- Informatics
-- Information science
-- Operating systems
-- Data structures and algorithms
-- Netcentric computer systems
-- Concurrent systems
-- Computer organization and architecture
+- Introduction into program design 
+- Software modelling 
+- Software engineering 
+- Data structures and algorithms 
+- Computer security and ethics 
+- Programming languages 
+- Database systems (PostgreSQL, BaseX, MongoDB, Neo4j and db4objects) 
+- Introduction into Computer Science 
+- Informatics 
+- Information science 
+- Operating systems 
+- Netcentric computer systems 
+- Concurrent systems 
+- Computer organization and architecture 
 - Computer networks
 
 #### EXTRA MODULES COMPLETED
@@ -74,12 +78,13 @@ B-level achievement in the following:
 - Discrete structures
 - Business management
 - Statistics
-- Multimedia
+- Multimedia (User experience design, web trends and applied technologies)
 
 <br/>
 ## KNOWLEDGE GAINED IN
 - Java
 - C++
+- SQL
 - Assembler
 - HTML
 - CSS
@@ -104,7 +109,7 @@ B-level achievement in the following:
 **Team Sigma**<br/>
 2020 - University of Pretoria
 
-Part of a university student group that developed the home security system "Argus" for Epi-Use Labs. This project was also part of the requirements for a Software Engineering module at the University of Pretoria.
+Part of a university student group that developed the home security system "Argus" for Epi-Use Labs. This project was also part of the requirements for a Software Engineering module at the University of Pretoria. This project won the award sponsored by AWS for the best User Experience of all the projects in 2020.
 
 <br/>
 ## COMMUNITY SERVICE
